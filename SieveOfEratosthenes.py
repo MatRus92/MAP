@@ -30,7 +30,7 @@ def primes_gen() -> Generator[int, None, None]:
 
 if __name__ == '__main__':
    gen = primes_gen()
-   for _ in range(5):
+   for _ in range(10):
        print(next(gen))
 
 
