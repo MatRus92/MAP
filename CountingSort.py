@@ -18,7 +18,7 @@ def countSort(arr):
 if __name__ == '__main__':
     arr = "MateuszRus1992Programowaniezpasja"
     ans = countSort(arr)
-    print("Lista posortowanych znaków w tablicy % s" % ("".join(ans)))
+    print(" Lista posortowanych znaków w tablicy % s" % ("".join(ans)))
 
 
 
