@@ -1,3 +1,3 @@
-SELECT number1
-  FROM [master].[dbo].[Test]
-  ORDER BY number2 DESC
+SELECT Zawartosc
+  FROM [master].[dbo].[test]
+  ORDER BY Zawartosc2 DESC
